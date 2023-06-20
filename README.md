@@ -5,4 +5,4 @@ On this project, we used CRISP-DM as the workflow and we performed several evalu
 
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/) </br>
-**Dataset :** [Kaggle]([https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?datasetId=1546318&sortBy=voteCount](https://www.kaggle.com/competitions/home-credit-default-risk/data)https://www.kaggle.com/competitions/home-credit-default-risk/data)
+**Dataset :** [Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk/data)
